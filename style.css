@@ -22,7 +22,7 @@ body {
   font-family: var(--font);
   font-size: 1.5rem;
   background-color: var(--bg-cold);
-  height: 250%;
+  height: 200%;
 }
 
 header {
@@ -83,7 +83,7 @@ header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("images/710dd763-3aa3-4591-99cf-a5dbd76b0368.JPG");
   background-color: #f2d5c4;
-  height: 30%;
+  height: 50%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
